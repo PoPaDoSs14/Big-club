@@ -1,0 +1,10 @@
+.base{
+    display:flex;
+    padding: 350px 700px;
+}
+.discription{
+    max-width: 300px;
+    padding: 0 15px;
+   
+
+}

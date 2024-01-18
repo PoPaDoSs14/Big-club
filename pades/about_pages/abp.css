@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color:white;
+}
+body{
+    background-color: rgb(42, 37, 56);
+}
+.header{
+    background-color: rgb(33, 29, 44);
+    width: 100%;
+    max-height: 90px;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.sidebar{
+    box-shadow: 0px 2px 7px 0px #ff00f2;
+    background-color: white;
+    position: absolute;
+    top:0%;
+    left:20%;
+    height:max-content;
+}
